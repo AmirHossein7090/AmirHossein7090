@@ -1,8 +1,6 @@
-- 👋 Hi, I’m AmirHossein
-- 👀 I’m interested in Machine Learning and Web Development
-- 🌱 I’m currently learning Django
-- 💞️ I’m looking to collaborate on django and AI projects
-- 📫 How to reach me : amirhosein_1379@yahoo.com
+Hello :) my name is Amirhossein, i start programming when i was 18.
+i love python, ML and django framework
+now i develop web applications, and i'm a member of a team
 
 <!---
 AmirHossein7090/AmirHossein7090 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
