@@ -1,4 +1,4 @@
-Hello :) my name is Amir Hossien, i start programming when i was 18. I love python, ML and django framework. Now i develop web applications, and i'm a member of a team
+Hello :) my name is Amir Hossien, i start programming when i was 18. I love python, ML and django framework. 
 
 <!---
 AmirHossein7090/AmirHossein7090 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
